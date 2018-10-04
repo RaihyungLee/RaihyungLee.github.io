@@ -13,11 +13,11 @@ My broad research interests lie in comparative politics and the political econom
 * whether and how voters use information to hold politicians accountable, and cumulative learning.
 
 #### Working Papers
-* Lee, R., Kwak, S., Lee, D., & Chey, J. (submitted). Cognitive control training enhances the integration of intrinsic functional networks in adolescents. [[Abstract](https://drive.google.com/file/d/1MozZMymmqkUkoR1bzgl86oF2Y3ys_tj2/view?usp=sharing); Manuscript available upon request]
+* Lee, R., Kwak, S., Lee, D., & Chey, J. (submitted). Cognitive control training enhances the integration of intrinsic functional networks in adolescents. [[Abstract](https://drive.google.com/file/d/1MozZMymmqkUkoR1bzgl86oF2Y3ys_tj2/view?usp=sharing)]
 * Lee, R., Kwak, S., Kim, H., & Chey, J. Characterizing the neural basis of individual differences in cognitive control between different age groups using connectome-based predictive modeling. [[Abstract](https://drive.google.com/file/d/15u_bza7CDPFUT4-OV_H7UP1yy2dSyF-v/view?usp=sharing)]
 * Lee, R., Park, H., Park, H., Ahn W.-Y., Kwak, S., & Chey, J. Stress attenuates model-based learning in adolescents with high working-memory capacity.
 
 #### Conference Presentations
-* Lee, R., Park, H., Park, H., Ahn W.-Y., Kwak, S., & Chey, J. (submitted; 2019, Mar). Stress attenuates model-based learning in adolescents with high working-memory capacity. For: Cognitive Neuro- science Society, San Francisco, CA.
-* Lee, R., Kwak, S., Lee, D., & Chey, J. (2018, Mar). Characterizing the neural basis of adolescent cog- nitive control using connectome-based predictive modeling. For: Cognitive Neuroscience Society, Boston, MA.
-* Lee, R., Kwak, S., Lee, D., & Chey, J. (2017, Nov). Cognitive control training enhances the integra- tion of control networks in adolescents. For: Society for Neuroscience, Washington, D.C.
+* Lee, R., Park, H., Park, H., Ahn W.-Y., Kwak, S., & Chey, J. (submitted; 2019, Mar). Stress attenuates model-based learning in adolescents with high working-memory capacity. For: Cognitive Neuroscience Society, San Francisco, CA.
+* Lee, R., Kwak, S., Lee, D., & Chey, J. (2018, Mar). Characterizing the neural basis of adolescent cognitive control using connectome-based predictive modeling. For: Cognitive Neuroscience Society, Boston, MA.
+* Lee, R., Kwak, S., Lee, D., & Chey, J. (2017, Nov). Cognitive control training enhances the integration of control networks in adolescents. For: Society for Neuroscience, Washington, D.C.
