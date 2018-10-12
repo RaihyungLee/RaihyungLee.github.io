@@ -5,7 +5,7 @@ permalink: /research/index.html
 ---
 
 ### Research
-My research focuses on the neural and computational processes underlying reinforcement learning and cognitive control. I use a combination of behavioral experiments, computational modeling, and neuroimaging techniques to understand these processes. Specifically, I’m interested in the following questions: 
+My research focuses on the neural and computational processes underlying reinforcement learning and decision-making. I use a combination of behavioral experiments, computational modeling, and neuroimaging techniques to understand these processes. Specifically, I’m interested in the following questions: 
 
 **Structure learning**
 *	How do we learn latent structure shared across multiple task environments, and generalize this structured knowledge to a novel task? 
