@@ -5,12 +5,18 @@ permalink: /research/index.html
 ---
 
 ### Research
-My broad research interests lie in comparative politics and the political economy of development. My current projects centre on: 
-* women's political mobilisation and collective action, 
-* persistence and erosion of ideology in political parties,
-* public service delivery in decentralised contexts,
-* historical origins of ethnic conflict, and
-* whether and how voters use information to hold politicians accountable, and cumulative learning.
+My research focuses on the neural and computational processes underlying reinforcement learning and cognitive control. I use a combination of behavioral experiments, computational modeling, and neuroimaging techniques to understand these processes. Specifically, I’m interested in the following questions: 
+
+##### Structure learning
+*	How do we learn latent structure shared across multiple task environments? And how do we generalize this structured knowledge to a novel task? 
+*	How do we learn a hierarchical structure in action policies? That is, how do we learn to decompose our action space into a set of sub-problems in which more abstract, higher-level actions guide selections of more elemental, lower-level actions?     
+*	What neural mechanisms enable structure learning? Specifically, what are the roles of recurrent dynamics in prefrontal cortex?
+
+##### State representation
+*	How do we determine which stimuli/actions to consider (or ignore) in the decision-making process? 
+*	In predicting future states and rewards, how do we combine the memory of previous states with the noisy observation of the current state? 
+*	How does state uncertainty regulate subsequent learning and decision-making strategies?
+
 
 #### Working Papers
 * Lee, R., Kwak, S., Lee, D., & Chey, J. (submitted). Cognitive control training enhances the integration of intrinsic functional networks in adolescents. [[Abstract](https://drive.google.com/file/d/1MozZMymmqkUkoR1bzgl86oF2Y3ys_tj2/view?usp=sharing)]
