@@ -17,6 +17,7 @@ My research focuses on the neural and computational processes underlying reinfor
 *	In predicting future states and rewards, how do we combine the memory of previous states with the noisy observation of the current state? 
 *	How does state uncertainty regulate subsequent learning and decision-making strategies?
 
+\bigskip
 
 #### Working Papers
 * Lee, R., Kwak, S., Lee, D., & Chey, J. (submitted). Cognitive control training enhances the integration of intrinsic functional networks in adolescents. [[Abstract](https://drive.google.com/file/d/1MozZMymmqkUkoR1bzgl86oF2Y3ys_tj2/view?usp=sharing)]
