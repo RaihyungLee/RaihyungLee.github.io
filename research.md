@@ -7,12 +7,12 @@ permalink: /research/index.html
 ### Research
 My research focuses on the neural and computational processes that underlie reinforcement learning and cognitive control; I use a combination of behavioral experiments, computational modeling, and neuroimaging techniques to understand these processes. Specifically, I am interested in the following questions:
 
-**Structure learning**
+**Structure learning**  
 *	How do we learn the latent structures shared across multiple task environments and generalize this structured knowledge for novel tasks? 
 *	How do we learn the hierarchical structure in action policies? That is, how do we learn to decompose our action space into a set of sub-problems in which more abstract, higher-level actions guide the selection of more elemental, lower-level actions?     
 *	What neural mechanisms enable structure learning? Specifically, what are the roles of recurrent dynamics in the prefrontal cortex?
 
-**State representation**
+**State representation**  
 *	How do we determine which stimuli/actions to consider (or ignore) in our decision-making process? 
 *	When predicting future states and rewards, how do we combine the memory of previous states with noisy observations of the current state? 
 *	How does state uncertainty regulate subsequent learning and decision-making strategies?
