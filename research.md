@@ -28,3 +28,4 @@ My research focuses on the neural and computational processes that underlie rein
 * Lee, R., Park, H., Park, H., Ahn, W.-Y., Kwak, S., & Chey, J. (submitted; 2019, Mar). Stress attenuates model-based learning in adolescents with high working-memory capacity. For: Cognitive Neuroscience Society, San Francisco, CA.
 * Lee, R., Kwak, S., Lee, D., & Chey, J. (2018, Mar). Characterizing the neural basis of adolescent cognitive control using connectome-based predictive modeling. For: Cognitive Neuroscience Society, Boston, MA.
 * Lee, R., Kwak, S., Lee, D., & Chey, J. (2017, Nov). Cognitive control training enhances the integration of control networks in adolescents. For: Society for Neuroscience, Washington, D.C.
+* Kwak, S., Lee, R., Cho, S., Lee, D., & Chey, J. (2017, Oct). Building a neuromarker of adolescent impulsitivity trait from whole-brain functional connectivity. For: Annual Conference of Korean Clinical Psychology Association, Seoul.
